@@ -1,0 +1,2 @@
+# Installer
+Инсталлер oneshot
